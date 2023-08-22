@@ -1,2 +1,6 @@
 x64/
 .vs/
+OutputFile/bin_d/Client.exe
+OutputFile/bin_d/Client.pdb
+OutputFile/bin/Client.exe
+OutputFile/bin/Client.pdb
